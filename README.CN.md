@@ -2,6 +2,15 @@
 
 🎨 **免费的AI图像和视频生成API服务** - 基于即梦AI（国内站）和dreamina（国际站）的逆向工程实现。
 
+> ⚠️ **注意**：本项目是专门为 **Vercel Serverless** 部署而修改的版本。原版仓库请访问：[iptag/jimeng-api](https://github.com/iptag/jimeng-api)。
+> 
+> ### ⚡ 一键部署 Vercel 教​​程
+> 1. 先点击右上角的 **Fork** 按钮，将此仓库复制到你自己的 GitHub 账号下。
+> 2. 在 **你自己的仓库**（Fork 后的项目页面）中，点击下方的部署按钮：
+> 3. Vercel 会自动尝试获取你当前所在仓库的 URL 并进行一键部署部署。
+>
+> [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone)
+
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/) [![Docker](https://img.shields.io/badge/Docker-支持-blue.svg)](https://www.docker.com/) [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram)](https://t.me/jimeng_api)
 
 > ⭐ **如果这个项目对你有帮助，请给个 Star 支持一下！** 你的支持是我们持续更新的动力。

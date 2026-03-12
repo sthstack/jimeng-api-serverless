@@ -1,14 +1,15 @@
 {
+    "version": 2,
     "builds": [
         {
-            "src": "./dist/index.js",
+            "src": "src/vercel.ts",
             "use": "@vercel/node"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "/dist",
+            "dest": "/src/vercel.ts",
             "headers": {
                 "Access-Control-Allow-Credentials": "true",
                 "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT",

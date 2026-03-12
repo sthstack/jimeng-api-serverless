@@ -4,6 +4,15 @@
 
 🎨 **Free AI Image and Video Generation API Service** - Based on reverse engineering of Jimeng AI (China site) and Dreamina (international site).
 
+> ⚠️ **Notice**: This is a modified edition specifically for **Vercel Serverless** deployment. Original repository: [iptag/jimeng-api](https://github.com/iptag/jimeng-api).
+>
+> ### ⚡ 1-Click Deploy to Vercel
+> 1. Click the **Fork** button at the top right of this page to copy this repository to your own GitHub account.
+> 2. In **your own cloned repository**, click the deploy button below:
+> 3. Vercel will automatically attempt to fetch the URL of your current repository and deploy it.
+>
+> [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone)
+
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/) [![Docker](https://img.shields.io/badge/Docker-Supported-blue.svg)](https://www.docker.com/) [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/jimeng_api)
 
 > ⭐ **If this project helps you, please give it a Star!** Your support motivates us to keep improving.
